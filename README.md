@@ -14,3 +14,4 @@ powers.
 7. k3 and k7 enemies are endured with power to regenerate themselves once with half of their
 initial power and can attack Abhimanyu from behind if he is battling in iteratively next circle
 
+# Well there is (take or !take) approach and Also I have tried this problem with a DP approach.
